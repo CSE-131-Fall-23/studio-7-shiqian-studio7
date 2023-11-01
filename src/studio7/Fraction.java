@@ -30,7 +30,7 @@ public class Fraction {
 		// TODO Auto-generated method stub
 		Fraction fraction1=new Fraction(1,2);
 		Fraction fraction2=new Fraction(3,4);
-		System.out.print(fraction1.Addition(fraction2));
+		System.out.print("fraction: " + Addition().numerator + "/" + );
 
 	}
 
